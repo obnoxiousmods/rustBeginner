@@ -1,9 +1,0 @@
-// mod fucker;
-// mod vars;
-// mod types;
-mo
-fn main() {
-    // fucker::run();
-    // vars::run();
-    types::run();
-}

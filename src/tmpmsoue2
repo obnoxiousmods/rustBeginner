@@ -1,5 +1,0 @@
-//mod fucker;
-mod 
-fn main() {
-    fucker::run();
-}

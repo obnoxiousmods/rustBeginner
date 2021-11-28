@@ -1,4 +1,0 @@
-mod p
-fn main() {
-    println!("Hello, world!");
-}
