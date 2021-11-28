@@ -1,0 +1,9 @@
+mod print;
+
+fn cocks() {
+    p
+}
+
+fn main() {
+    print:
+}

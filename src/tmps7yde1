@@ -1,0 +1,10 @@
+/*
+Primitive types
+
+Integers: u8, i8, u16, u32, i32, u64, i64, u128 (bits in memory)
+Floats:
+*/
+
+pub fn run() {
+
+}

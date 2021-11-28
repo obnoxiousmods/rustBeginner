@@ -1,0 +1,10 @@
+mod print;
+
+fn cocks() {
+    //lol
+    print::run();
+}
+
+fn main() { SomeStruct {
+    print::
+} }

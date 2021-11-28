@@ -1,0 +1,8 @@
+mod fucker;
+
+fn cocks() {
+    //lol
+    f::run();
+}
+
+fn main() {}

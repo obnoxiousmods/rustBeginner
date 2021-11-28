@@ -1,0 +1,5 @@
+//mod fucker;
+mod v
+fn main() {
+    fucker::run();
+}
