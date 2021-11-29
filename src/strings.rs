@@ -13,4 +13,22 @@ pub fn run() {
     // Push string
     hello.push_str("orld!");
 
+    // Capacity in bytes
+    println!("Capacity: {}", hello.capacity());
+
+    // Check if empty
+    println!("Is Empty: {}", hello.is_empty());
+
+    // Contains
+    println!("Contains 'World' {}", hello.contains("World"));
+
+    // Replace
+    println!("Replace: {}", hello.replace("World", "There"));
+
+    // Loop through string by whitespace
+    for word in hello.split_whitespace() {
+        println!("{}", word);
+    }
+
     println!("{}", hello);
+}
